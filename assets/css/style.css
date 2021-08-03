@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.headerbg{
+    background: url('../img/headerbg.jpg');
+    background-size: cover;
+    color: #ffffff;
+}
+
+.logo{
+width: 40%;
+margin-top: 20%;
+}
+
+.apple{
+    width: 40%;
+    margin-top: 10%;
+}
+
+.apple:hover{
+opacity: 0.8;
+}
+
+.mainscreen{
+    width: 60%;
+}
+
+.section1{
+    margin-top: 10%;
+}
+
+.textsection1{
+    padding-top: 10%;
+}
+
+.screen1{
+    width: 70%;
+}
+
+.section2{
+    margin-top: 10%;
+}
+
+.textsection2{
+    padding-top: 10%;
+}
+
+.screen2{
+    width: 70%;
+}
+
+.support{
+    background: url('../img/supportbg.jpg');
+    padding: 20px;
+    color: white;
+}
+
+.support button{
+    background: white;
+    color: red;
+    height: 60px;
+    width: 7cm;
+    padding: 15px;
+    border-radius: 80px;
+    -moz-border-radius:80px;
+    margin-top: 10px;
+    border:none;
+}
+
+.support button:hover{
+    background-color: red;
+    color: white;
+}
+
+.logofooter{
+    width: 20%;
+}
+.footer {
+    padding: 40px;
+    background-color: black;
+    
+}
